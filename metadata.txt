@@ -7,7 +7,7 @@
 name=MapBiomas Fire
 qgisMinimumVersion=3.0
 description=This plugin allows access to MapBiomas fire products directly in QGIS
-version=0.1
+version=0.2
 author=Newton Monteiro, Wallace Silva, Felipe Martenexen, Vera Laísa, João Ribeiro, IPAM Amazônia
 email=contato@mapbiomas.org
 
@@ -25,6 +25,9 @@ changelog=0.1 - First public version of the MapBiomas Fire plugin
     - Access to MapBiomas fire products directly in QGIS
     - Visualization of historical fire data
     - Intuitive interface for downloading and viewing data
+0.2 - Update metadata links
+    - Updated tracker and repository URLs in metadata
+
 
 # Tags are comma separated with spaces allowed
 tags=python, fire, fire detection, burn scar, landsat, mapbiomas, fire, burn scar, area, historical series
