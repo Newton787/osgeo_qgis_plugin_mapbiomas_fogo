@@ -13,7 +13,7 @@ email=contato@mapbiomas.org
 
 about=Este plugin permite acesso aos produtos de fogo do Mapbiomas diretamente no Qgis
 
-tracker=https://brasil.mapbiomas.org
+tracker=https://github.com/Newton787/osgeo_qgis_plugin_mapbiomas_fogo/issues
 repository=https://github.com/Newton787/osgeo_qgis_plugin_mapbiomas_fogo
 # End of mandatory metadata
 
