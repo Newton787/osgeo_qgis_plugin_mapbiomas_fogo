@@ -4,14 +4,14 @@
 # Mandatory items:
 
 [general]
-name=MapBiomas Fogo
+name=MapBiomas Fire
 qgisMinimumVersion=3.0
-description=Este plugin permite acesso aos produtos de fogo do Mapbiomas diretamente no Qgis
+description=This plugin allows access to MapBiomas fire products directly in QGIS
 version=0.1
 author=Newton Monteiro, Wallace Silva, Felipe Martenexen, Vera Laísa, João Ribeiro, IPAM Amazônia
 email=contato@mapbiomas.org
 
-about=Este plugin permite acesso aos produtos de fogo do Mapbiomas diretamente no Qgis
+about=This plugin allows access to MapBiomas fire products directly in QGIS
 
 tracker=https://github.com/Newton787/osgeo_qgis_plugin_mapbiomas_fogo/issues
 repository=https://github.com/Newton787/osgeo_qgis_plugin_mapbiomas_fogo
@@ -21,13 +21,13 @@ repository=https://github.com/Newton787/osgeo_qgis_plugin_mapbiomas_fogo
 
 hasProcessingProvider=no
 # Uncomment the following line and add your changelog:
-changelog=0.1 - Primeira versão pública do plugin MapBiomas Fogo
-    - Acesso aos produtos de fogo do MapBiomas diretamente no QGIS
-    - Visualização de dados históricos de fogo
-    - Interface intuitiva para download e visualização de dados
+changelog=0.1 - First public version of the MapBiomas Fire plugin
+    - Access to MapBiomas fire products directly in QGIS
+    - Visualization of historical fire data
+    - Intuitive interface for downloading and viewing data
 
 # Tags are comma separated with spaces allowed
-tags=python, fire, fire detection, burn scar, landsat, mapbiomas, fogo, cicatriz de queimada, área, area, historical series, série histórica 
+tags=python, fire, fire detection, burn scar, landsat, mapbiomas, fire, burn scar, area, historical series
 
 homepage=https://brasil.mapbiomas.org/
 category=Web
