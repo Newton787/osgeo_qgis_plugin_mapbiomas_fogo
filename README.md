@@ -1,0 +1,1 @@
+# osgeo_qgis_plugin_mapbiomas_fogo
