@@ -16,7 +16,6 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
 - **Land Use Integration**: Visualize fire data classified by land use and land cover classes
 - **Territory Analysis**: Generate statistics by administrative boundaries (states, municipalities, biomes)
 - **Custom Legends**: Automatic legend generation for different data categories and visualization modes
-- **Vector Layer Creation**: Convert raster fire data to vector layers with statistical attributes
 - **Multi-temporal Analysis**: Compare fire patterns across different time periods
 
 ## Installation
@@ -73,12 +72,6 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
 
 ### Advanced Features
 
-#### Statistical Analysis
-- Generate fire statistics by territory
-- Export results as CSV or vector layers
-- Calculate burned area percentages by land use class
-- Compare fire patterns between different administrative units
-
 #### Custom Visualization
 - Modify legend categories and colors
 - Combine multiple years of data
@@ -90,7 +83,7 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
 All fire data is provided by the **MapBiomas Project**, a collaborative initiative that monitors land use and land cover changes in Brazil using satellite imagery and advanced classification algorithms.
 
 - **Spatial Resolution**: 30 meters
-- **Temporal Coverage**: 2000-2022 (updated annually)
+- **Temporal Coverage**: 2000-2024 (updated annually)
 - **Geographic Coverage**: Complete Brazilian territory
 - **Data Source**: Landsat satellite imagery processed through Google Earth Engine
 
@@ -106,8 +99,8 @@ Learn more about MapBiomas: [https://mapbiomas.org](https://mapbiomas.org)
 
 ### Supported Formats
 - **Input**: MapBiomas API (GeoTIFF/Cloud Optimized GeoTIFF)
-- **Output**: QGIS raster and vector layers
-- **Export**: Shapefile, GeoPackage, CSV, PDF
+- **Output**: QGIS raster 
+- **Export**: GeoPackage, PDF
 
 ## Contributing
 
