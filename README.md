@@ -12,9 +12,8 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
 
 - **Direct Access to Fire Data**: Connect to MapBiomas Fire data API directly from within QGIS
 - **Accumulated Fire Visualization**: View total burned areas over time with cumulative frequency analysis
-- **Annual Fire Layers**: Access fire occurrence data for specific years (2000-2022)
+- **Annual Fire Layers**: Access fire occurrence data for specific years (1985-2022)
 - **Land Use Integration**: Visualize fire data classified by land use and land cover classes
-- **Territory Analysis**: Generate statistics by administrative boundaries (states, municipalities, biomes)
 - **Custom Legends**: Automatic legend generation for different data categories and visualization modes
 - **Multi-temporal Analysis**: Compare fire patterns across different time periods
 
