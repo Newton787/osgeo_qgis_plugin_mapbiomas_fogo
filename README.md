@@ -61,7 +61,7 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
      - By fire recurrence patterns
 
 4. **Territory Analysis** (Optional)
-   - Select administrative boundaries (states, municipalities, biomes, RPPNs)
+   - Select administrative boundaries (states, municipalities, biomes, RPPNs) - future version
    - Generate statistical reports
    - Export data as vector layers with attributes
 
@@ -72,7 +72,6 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
 ### Advanced Features
 
 #### Custom Visualization
-- Modify legend categories and colors
 - Combine multiple years of data
 - Create custom fire frequency classifications
 - Export high-quality maps for reports
