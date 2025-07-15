@@ -6,9 +6,8 @@ Features
 Direct access to MapBiomas Fire data from within QGIS
 Visualization of accumulated fire occurrence (total burned areas)
 Fire data displayed by land use classes
-Annual fire occurrence layers (2000-2022)
+Annual fire occurrence layers (1985-2024)
 Custom legends for different data categories
-Statistical analysis by territory (states, biomes, etc.)
 Option to create vector layers with fire statistics as attributes
 Installation
 Download the plugin through QGIS Plugin Manager
