@@ -47,7 +47,7 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
 ### Basic Workflow
 
 1. **Open the Plugin**
-   - Click the MapBiomas Fogo icon ![Plugin Icon](icon.png) in the QGIS toolbar
+   - Click the MapBiomas Fogo icon <img src="icon.png" width="20"> in the QGIS toolbar
    - Or access via `Plugins` → `MapBiomas Fogo`
 
 2. **Select Data Type**
@@ -76,7 +76,7 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
 
 ![GeoPDF logo](GeoPDF_head.png)
 
-1. Click the GeoPDF icon in <img src=GeoPDFicon.png width="30"> the plugin toolbar or access the option from the menu
+1. Click the GeoPDF icon in <img src=GeoPDFicon.png width="20"> the plugin toolbar or access the option from the menu
 2. Select the output format: **Portrait** or **Landscape** according to the study area and the device that will be used in the field
 3. Navigate through the map preview to adjust the visible area and zoom to the desired extent
 4. After confirming the composition, click **Export** to generate the georeferenced PDF
