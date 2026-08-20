@@ -8,8 +8,6 @@ The **MapBiomas Fogo** plugin provides seamless integration with MapBiomas Fire 
 
 MapBiomas is a collaborative network that monitors land use and land cover changes in Brazil, providing essential data for environmental analysis and decision-making.
 
-**📥 [Download mapbiomas_fogo-1.5.zip](mapbiomas_fogo-1.5.zip)**
-
 ## Features
 
 - **Direct Access to Fire Data**: Connect to MapBiomas Fire data API directly from within QGIS
@@ -19,6 +17,17 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
 - **Custom Legends**: Automatic legend generation for different data categories and visualization modes
 - **Multi-temporal Analysis**: Compare fire patterns across different time periods
 - **GeoPDF Export**: Generate georeferenced PDF maps from the active layers for field use, reports, and offline map distribution
+
+
+## Download
+
+The **MapBiomas Fogo** plugin integrates Brazil's fire history data directly into your QGIS environment, streamlining the workflow by eliminating the need for manual data acquisition. 
+
+It provides tools for visualizing accumulated and annual burn patterns, analyzing data by land use, and exporting georeferenced maps for field work.
+
+**[Download mapbiomas_fogo-1.5.zip](mapbiomas_fogo-1.5.zip)**
+
+*(Please refer to the Installation guide below for setup instructions)*
 
 ## Installation
 
