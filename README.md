@@ -73,10 +73,14 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
 ### Advanced Features
 
 #### GeoPDF Export
-- Access the GeoPDF tool from the plugin toolbar or menu
-- Choose between portrait or landscape layout based on the study area and field device
-- Adjust the map extent and export a georeferenced PDF ready for fieldwork or presentation
-- Use the active project layers to generate a high-quality GeoPDF directly from QGIS
+
+![GeoPDF logo](GeoPDF_head.png)
+
+1. Click the GeoPDF icon in ![GeoPDF Icon](GeoPDFicon.png) the plugin toolbar or access the option from the menu
+2. Select the output format: **Portrait** or **Landscape** according to the study area and the device that will be used in the field
+3. Navigate through the map preview to adjust the visible area and zoom to the desired extent
+4. After confirming the composition, click **Export** to generate the georeferenced PDF
+5. The resulting file can be used in the field or shared as a high-quality cartographic product
 
 #### Custom Visualization
 - Combine multiple years of data
