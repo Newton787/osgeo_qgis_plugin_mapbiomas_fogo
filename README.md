@@ -37,6 +37,14 @@ It provides tools for visualizing accumulated and annual burn patterns, analyzin
 3. Search for "MapBiomas Fogo"
 4. Click `Install Plugin`
 
+### Via ZIP File
+1. Download the plugin ZIP file (`mapbiomas_fogo-1.5.zip`)
+2. Open QGIS
+3. Go to `Plugins` → `Manage and Install Plugins`
+4. Select the `Install from ZIP` tab on the left panel
+5. Click the `...` button and browse to the downloaded `.zip` file
+6. Click `Install Plugin`
+
 ### Manual Installation
 1. Download or clone this repository
 2. Copy the plugin folder to your QGIS plugins directory:
