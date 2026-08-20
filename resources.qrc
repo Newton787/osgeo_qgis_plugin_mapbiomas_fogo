@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/plugins/MapBiomas_fogo">
-    <file>logo_mapbiomas.png</file>
-    <file>icon.png</file>
-  </qresource>
-</RCC>
