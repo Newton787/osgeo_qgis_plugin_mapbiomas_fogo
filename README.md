@@ -16,6 +16,7 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
 - **Land Use Integration**: Visualize fire data classified by land use and land cover classes
 - **Custom Legends**: Automatic legend generation for different data categories and visualization modes
 - **Multi-temporal Analysis**: Compare fire patterns across different time periods
+- **GeoPDF Export**: Generate georeferenced PDF maps from the active layers for field use, reports, and offline map distribution
 
 ## Installation
 
@@ -61,7 +62,7 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
      - By fire recurrence patterns
 
 4. **Territory Analysis** (Optional)
-   - Select administrative boundaries (states, municipalities, biomes, RPPNs) - future version
+   - Select administrative boundaries (states, municipalities, biomes, RPPNs) 
    - Generate statistical reports
    - Export data as vector layers with attributes
 
@@ -70,6 +71,12 @@ MapBiomas is a collaborative network that monitors land use and land cover chang
    - Layers will be automatically styled with appropriate legends
 
 ### Advanced Features
+
+#### GeoPDF Export
+- Access the GeoPDF tool from the plugin toolbar or menu
+- Choose between portrait or landscape layout based on the study area and field device
+- Adjust the map extent and export a georeferenced PDF ready for fieldwork or presentation
+- Use the active project layers to generate a high-quality GeoPDF directly from QGIS
 
 #### Custom Visualization
 - Combine multiple years of data
@@ -98,7 +105,7 @@ Learn more about MapBiomas: [https://mapbiomas.org](https://mapbiomas.org)
 ### Supported Formats
 - **Input**: MapBiomas API (GeoTIFF/Cloud Optimized GeoTIFF)
 - **Output**: QGIS raster 
-- **Export**: GeoPackage, PDF
+- **Export**: GeoPackage
 
 ## Contributing
 
